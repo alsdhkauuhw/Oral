@@ -9,9 +9,9 @@ vue: `2.6.10`
 后端：`Springboot`  
 数据库：`Mysql`
 ## tips!!
-我原先将前端与后端全都部署到spring-boot内置的Tomcat服务器上  
-如果你希望继续这个风格，你需要使用`npm`的打包命令
-    npm run build
+我原先将前端与后端全都部署到`spring-boot`内置的`Tomcat`服务器上  
+如果你希望继续这个风格，你需要使用`npm`的打包命令  
+```npm run build```  
 然后更改生成的`dist`文件的地址  
 ## 前端项目地址
 就在这个库的`src\main\resources\admin\admin`地址下
