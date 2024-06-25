@@ -1,6 +1,6 @@
 # Oral
 口腔医疗管理系统
-![login](src\main\resources\admin\admin\src\assets\img\image.png)
+![login](src/main/resources/admin/admin/src/assets/img/image.png)
 ## 环境搭建
 python: `3.6.0`(由于本项目使用了较为古老的node-nass, 他需要python环境, 他已不再更新)  
 java: `1.8`  
